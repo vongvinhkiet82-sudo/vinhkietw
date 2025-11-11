@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Quicksand', sans-serif;
-  background: #dff7e0; /* xanh lá pastel nhạt */
+  background: #dff4ff;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -27,19 +27,19 @@ body {
 .card h1 {
   font-size: 28px;
   margin-bottom: 20px;
-  color: #2e7d32; /* xanh lá đậm cho tiêu đề */
+  color: #1565c0;
 }
 
 .card p {
   font-size: 16px;
-  color: #388e3ccc; /* xanh lá nhẹ cho nội dung */
+  color: #2196f3cc;
   line-height: 1.5;
   margin-bottom: 35px;
 }
 
 .card .btn {
   display: inline-block;
-  background: #81c784; /* xanh lá pastel cho button */
+  background: #90caf9;
   color: white;
   padding: 14px 28px;
   border-radius: 30px;
@@ -49,12 +49,12 @@ body {
 }
 
 .card .btn:hover {
-  background: #2e7d32; /* xanh lá đậm khi hover */
+  background: #1565c0;
   transform: scale(1.1);
 }
 
 .card footer {
   margin-top: 30px;
   font-size: 13px;
-  color: #66bb6a; /* xanh lá pastel nhẹ cho footer */
+  color: #64b5f6;
 }
